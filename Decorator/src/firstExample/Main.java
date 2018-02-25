@@ -1,3 +1,5 @@
+package firstExample;
+
 public class Main {
     public static void main(String[] args) {
         Misha misha = new Misha();

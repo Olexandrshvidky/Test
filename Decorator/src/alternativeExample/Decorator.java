@@ -1,5 +1,6 @@
-public class Decorator extends AbstractDecorator{
-    private Student student;
+package alternativeExample;
+
+public class Decorator extends Misha {
 
     public Decorator(Student student) {
         this.student = student;

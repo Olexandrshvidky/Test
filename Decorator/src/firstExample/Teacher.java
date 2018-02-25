@@ -1,3 +1,5 @@
+package firstExample;
+
 public class Teacher {
     private Student student;
 
